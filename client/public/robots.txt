@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace with your real production domain
+Sitemap: https://www.masterjiconsultancy.com/sitemap.xml
