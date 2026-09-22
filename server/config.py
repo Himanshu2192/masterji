@@ -17,7 +17,7 @@ class Config:
     # Set these via environment variables in production (Vercel project
     # → Settings → Environment Variables). Defaults below are for local dev only.
     DB_USER = os.environ.get("DB_USER", "postgres")
-    DB_PASSWORD = os.environ.get("DB_PASSWORD", "hk219287@")
+    DB_PASSWORD = os.environ.get("DB_PASSWORD", "change-me-locally")
     DB_HOST = os.environ.get("DB_HOST", "localhost")
     DB_PORT = os.environ.get("DB_PORT", "5432")
     DB_NAME = os.environ.get("DB_NAME", "masterji_db")

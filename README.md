@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 # Set your DB connection (or edit config.py directly)
 export DB_USER=postgres
-export DB_PASSWORD=hk219287@
+export DB_PASSWORD="<your local database password>"
 export DB_HOST=localhost
 export DB_PORT=5432
 export DB_NAME=masterji_db
